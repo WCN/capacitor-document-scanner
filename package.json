@@ -16,7 +16,9 @@
   ],
   "author": "David Marcus",
   "license": "MIT",
-  "repository": "https://github.com/WCN/capacitor-document-scanner.git",
+  "repository": {
+    "url": "https://github.com/WCN/capacitor-document-scanner.git"
+  },
   "bugs": {
     "url": "https://github.com/WCN/capacitor-document-scanner/issues"
   },
